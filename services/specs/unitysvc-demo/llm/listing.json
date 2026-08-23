@@ -13,7 +13,7 @@
     }
   },
   "list_price": {
-    "description": "$1.00 / 1M input tokens, $3.00 / 1M output tokens",
+    "description": "$1.00 / $3.00 per 1M input/output tokens",
     "input": "1.00",
     "output": "3.00",
     "type": "one_million_tokens"
