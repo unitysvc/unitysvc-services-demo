@@ -7,13 +7,6 @@
   "service_type": "notification",
   "status": "ready",
   "summary": "SMTP-to-Email bridge.",
-  "tags": [
-    "email",
-    "http",
-    "notification",
-    "smtp",
-    "webhook"
-  ],
   "time_created": "2026-05-29T00:00:00Z",
   "upstream_access_config": {
     "http_relay": {

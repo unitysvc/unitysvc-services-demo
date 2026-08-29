@@ -23,11 +23,6 @@
   "service_type": "llm",
   "status": "ready",
   "summary": "Mock LLM service for integration testing.",
-  "tags": [
-    "ai",
-    "gateway",
-    "testing"
-  ],
   "time_created": "2026-04-18T00:00:00Z",
   "upstream_access_config": {
     "mock_llm_api": {

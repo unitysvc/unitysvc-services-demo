@@ -8,13 +8,6 @@ capabilities = [
     "messaging",
     "notification",
 ]
-tags = [
-    "discord",
-    "messaging",
-    "notification",
-    "transformer",
-    "webhook",
-]
 
 [upstream_access_config.discord]
 access_method = "http"

@@ -7,9 +7,6 @@
   "service_type": "proxy",
   "status": "ready",
   "summary": "Demonstrates `routing_vars` — operational knobs a seller can update post-activation without re-approval (see unitysvc/unitysvc#555).",
-  "tags": [
-    "gateway"
-  ],
   "time_created": "2026-04-18T00:00:00Z",
   "upstream_access_config": {
     "echo_service": {

@@ -12,11 +12,6 @@
   "service_type": "email",
   "status": "ready",
   "summary": "Simple SMTP relay.",
-  "tags": [
-    "email",
-    "smtp",
-    "gateway"
-  ],
   "time_created": "2026-04-18T00:00:00Z",
   "upstream_access_config": {
     "mail_relay": {
