@@ -12,11 +12,6 @@
   "service_type": "proxy",
   "status": "ready",
   "summary": "Multi-channel HTTP relay: one offering exposing two upstream access channels.",
-  "tags": [
-    "enrollment",
-    "gateway",
-    "multi-channel"
-  ],
   "time_created": "2026-06-18T00:00:00Z",
   "upstream_access_config": {
     "echo": {
